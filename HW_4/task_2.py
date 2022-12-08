@@ -8,3 +8,10 @@
 [1, 1, 2, 3, 3, 4, 5, 5, 6, 7, 7, 8, 9, 9]
 [2, 4, 6, 8]
 """
+
+from random import randint
+lst = [randint(0, 20) for i in range(30)]
+print(lst)
+
+n_lst = [i for i in lst if lst.count(i) == 1]
+print(n_lst)
