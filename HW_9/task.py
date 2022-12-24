@@ -65,7 +65,7 @@ async def fib(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         print(fibo_nums)
         await update.message.reply_text(f'последовательность : {fibo_nums}')
 
-bot_token = "5881374348:AAHHtP1WLgxfJJahCoskob8NWNIE6rcXBqY"
+bot_token = ""
 app = ApplicationBuilder().token(bot_token).build()
 
 app.add_handler(CommandHandler("start", hello))
