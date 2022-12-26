@@ -1,0 +1,71 @@
+{
+    "last_id": {
+      "id": 6
+    },
+    "items": [
+      {
+        "id": 1,
+        "first_name": "Маша",
+        "last_name": "Петрова",
+        "birthday": "21.11.1967",
+        "workplace": "\\",
+        "phone_number": [
+          "89283561201"
+        ]
+      },
+      {
+        "first_name": "Петр",
+        "last_name": "Васильев",
+        "phone_number": [
+          "2135236",
+          "5555555"
+        ],
+        "birthday": "18.08.1990",
+        "workplace": "Ё",
+        "id": 2
+      },
+      {
+        "first_name": "Маша",
+        "last_name": "Сидорова",
+        "phone_number": [
+          "89081931424"
+        ],
+        "birthday": "02.03.2000",
+        "workplace": "не работает",
+        "id": 3
+      },
+      {
+        "first_name": "Евгений",
+        "last_name": "Жуков",
+        "phone_number": [
+          "7777777",
+          "8888888"
+        ],
+        "birthday": "22.03.1968",
+        "workplace": "Учитель",
+        "id": 4
+      },
+      {
+        "first_name": "Кристина",
+        "last_name": "Васильева",
+        "phone_number": [
+          "77777777",
+          "66666666",
+          "88888888"
+        ],
+        "birthday": "Клавдия",
+        "workplace": "школа",
+        "id": 5
+      },
+      {
+        "first_name": "Прокофий",
+        "last_name": "Мамонтов",
+        "phone_number": [
+          "124255"
+        ],
+        "birthday": "20.12.1985",
+        "workplace": "дворец",
+        "id": 6
+      }
+    ]
+}
